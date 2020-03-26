@@ -10,7 +10,22 @@ By Hubert Ryan.
 
 ### About
 
-Using the Trakt API to make the call with Axios, receiving all the movie ids, another Api flame was made together called OMDB to obtain the images (Posts) of each specific film. Two connections were created with Axios to be able to access the Trakt and OMDB API explained in the previous paragraph.
+Using the Trakt API to make the call with Axios, receiving all the movie ids, another Api flame was made together called OMDB to obtain the images (Posts) of each specific film. Two connections were created with Axios to be able to access the Trakt and OMDB API explained in the previous text.
+
+The credentials used to access Trakt & omdb are being exposed for their use, if you want to obtain other credentials such as the ID, simply register with the two APIs for searching movies.
+
+### Use
+
+In order to run the project, you need a GitHub clone and then a YARN INSTALL to install all the necessary dependencies that will be listed below.
+
+Dependencies:
+[*] Redux
+[*] React Redux
+[*] Styled Components
+[*] Axios
+[*] Jest
+
+! React Navigation was optionally added for navigation between the details of each movie.
 
 ### Tests
 
