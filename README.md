@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/GNz3mYQ.png" width="500" title="Whatsapp">
+  <img src="https://imgur.com/GNz3mYQ.png" width="600" title="Whatsapp">
 </p>
 
 # Movies List
