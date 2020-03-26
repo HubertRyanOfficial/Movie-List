@@ -10,7 +10,7 @@ By Hubert Ryan.
 
 ### About
 
-Using the Trakt API to make the call with Axios, receiving all the movie ids, another Api flame was made together called OMDB to obtain the images (Posts) of each specific film. Two connections were created with Axios to be able to access the Trakt and OMDB API explained in the previous text.
+With React Native, Using the Trakt API to make the call with Axios, receiving all the movie ids, another Api flame was made together called OMDB to obtain the images (Posts) of each specific film. Two connections were created with Axios to be able to access the Trakt and OMDB API explained in the previous text.
 
 The credentials used to access Trakt & omdb are being exposed for their use, if you want to obtain other credentials such as the ID, simply register with the two APIs for searching movies.
 
