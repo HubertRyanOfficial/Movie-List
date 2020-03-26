@@ -19,11 +19,12 @@ The credentials used to access Trakt & omdb are being exposed for their use, if 
 In order to run the project, you need a GitHub clone and then a YARN INSTALL to install all the necessary dependencies that will be listed below.
 
 Dependencies:
-[x] Redux
-[x] React Redux
-[x] Styled Components
-[x] Axios
-[x] Jest
+
+- [x] Redux
+- [x] React Redux
+- [x] Styled Components
+- [x] Axios
+- [x] Jest
 
 ! React Navigation was optionally added for navigation between the details of each movie.
 
